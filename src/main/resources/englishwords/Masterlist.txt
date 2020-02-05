@@ -207,7 +207,7 @@ Herausgeber -> editor
 Blumenkohl -> cauliflower
 Kathedrale -> cathedral
 Werbung -> advertisment
-werbend -> advertising
+werben -> advertise
 Betrag -> amount
 Armee -> army
 Schauspielerin -> actress
@@ -349,7 +349,7 @@ um -> at
 Alter -> age
 Experiment -> experiment
 Atem -> breath
-Vordsitzender -> chairman
+Vorsitzender -> chairman
 Handel -> commerce
 im Ausland -> abroad
 Tag -> day
@@ -439,7 +439,6 @@ Tasche -> bag
 Bohne -> bean
 bitten -> ask
 Brücke -> bridge
-Kamarad -> comrade
 begehren -> desire
 Bibel -> bible
 unter -> among
@@ -556,7 +555,7 @@ früh -> early
 Bürger -> citizen
 Kongress -> congress
 Dessert -> dessert
-Übel -> evil
+böse -> evil
 Anwalt -> attorney
 schneiden -> cut
 prüfen -> check
@@ -618,10 +617,10 @@ schliesslich -> eventually
 Bewegung -> motion
 Mund -> mouth
 Eisen -> iron
+Silber -> silver
 es friert Kälte ein -> it's freezing
-lie -> liegen
 vierzig -> forty
-knife -> Knie
+Messer -> knife
 die meisten -> most
 neunzig -> ninety
 Hoffnung -> hope
@@ -629,12 +628,10 @@ lustig -> funny
 Monat -> month
 Kampf -> fight
 frisch -> fresh
-like -> Blitz
 kennzeichnen -> mark
 Gesundheit -> health
 neu -> new
 Märchen -> fairy tale
-lose -> schauen
 beenden -> finish
 hinein -> into
 Nuss -> nut
@@ -682,7 +679,7 @@ er -> he
 Fliege -> fly
 verwickeln -> involve
 vergessen -> forget
-lock -> Standort
+Schloss -> lock
 Montag -> Monday
 nirgendwo -> nowhere
 ein mal -> once
@@ -702,27 +699,26 @@ natürlich -> of course
 helfen -> help
 vierzehn -> fourteen
 Eiskrem -> ice cream
-legal -> Bein
+Bein -> leg
 gewohnt -> familiar
 neunzehn -> nineteen
 Maschine -> machine
 Natur -> nature
-leave -> lernen
+lernen -> learn
 gegenüberstehend -> opposite
 weg -> off
 Huhn -> hen
 drinnen -> inside
 just -> Juni
 Fabrik -> factory
-look -> lange
 Landstrasse -> highway
-life -> lügen
+lügen -> lie
 hundert -> hundred
-light -> heben
+Licht -> light
+heben -> lift
 gerne -> gladly
 ernähren -> feed
 innerer -> inner
-jam -> Jacke
 verheiratet -> married
 Musik -> music
 Gabel -> fork
@@ -731,12 +727,9 @@ Gewehr -> gun
 Gras -> grass
 Familie -> family
 Mitglied -> member
-Frau -> Mrs.
 vermissen -> miss
 Eiche -> oak
 es ist heiß -> it's hot
-long -> Schloss
-keep -> Gerechtigkeit
 Minute -> minute
 fallen -> fall
 Orange -> orange
@@ -750,12 +743,14 @@ niemand -> none
 neun -> nine
 Ernte -> harvest
 Million -> million
+Milliarde -> billion
 Mittel -> means
 nicken -> nod
 pünktlich -> on time
 bestellen -> order
 Metall -> metal
-live -> leben
+leben -> live
+Leben -> life
 Gelegenheit -> opportunity
 Maximum -> maximum
 vier -> four
@@ -795,7 +790,10 @@ Nahrung -> food
 natürlich -> natural
 Problem -> issue
 hoch -> high
-lamp -> See
+Lampe -> lamp
+See -> lake
+Meer -> ocean
+Meer -> sea
 es ist neblig -> it's foggy
 Brunnen -> fountain
 Halle -> hall
@@ -860,12 +858,13 @@ Einfluss -> influence
 Schinken -> ham
 fünf -> five
 Held -> hero
-kitchen -> Kuss
+Küche -> kitchen
+Kuss -> kiss
 wie -> how
 mehr...als -> more...than
 fett -> fat
 Goldfisch -> goldfish
-lot -> Verlust
+Verlust -> loss
 Gesicht -> face
 für -> for
 voll -> full
@@ -885,11 +884,9 @@ Botschaft -> message
 Mittag -> midday
 Mädchen -> girl
 Hamster -> hamster
-let -> weniger
 haben -> have
 Februar -> February
 flach -> flat
-kiss -> König
 marschieren -> march
 Juli -> July 
 justice -> nur
@@ -949,7 +946,6 @@ mich -> myself
 meinen -> mean
 mittlerer -> middle
 beinhalten -> include
-Fräulein -> Miss
 nicht -> not
 Gas -> gas
 Magazin -> magazine
@@ -966,12 +962,11 @@ machen -> make
 Bewegung -> movement
 Gefühl -> feeling
 Hügel -> hill
-large -> Sprache
-local -> wohnen
 offensichtlich -> obvious
 Boden -> floor
 heiss -> hot
 loud -> Haufen
+Sprache -> language
 Wünsche -> greetings
 located -> lokal
 Spiel -> game
@@ -1084,7 +1079,7 @@ es ist sonnig -> it's sunny
 Ehemann -> husband
 Gegenstand -> matter
 Nachbarschaft -> neighborhood
-knee -> Kätzchen
+Knie -> knee
 Fuchs -> fox
 Minister -> minister
 wenig -> few
@@ -1092,7 +1087,7 @@ instandhalten -> maintain
 Innere -> interior
 anfänglich -> initial
 häufig -> frequently
-kind -> child
+Kind -> child
 Notiz -> note
 schrecklich -> horrible
 gut -> good
@@ -1674,7 +1669,7 @@ Krieg -> war
 Durst -> thirst
 Vergnügen -> pleasure
 uns -> us
-weiß -> white
+weiss -> white
 so -> thus
 klein -> small
 wunderbar -> wonderful
@@ -1700,3 +1695,43 @@ streiten -> struggle
 berichten -> report
 abgemacht -> settled
 Stahl -> steel
+Zugang -> access
+exakt -> accurate
+Genauigkeit -> accuracy
+Erfolg -> achievement
+erreichen -> achieve
+anpassen -> adjust
+Anpassung -> adjustment
+Verbesserungen -> advances
+analysieren -> analyse
+analysieren -> analyze
+Analyse -> analysis
+erwarten -> anticipate
+anwenden -> apply
+ungefähr -> approximately
+ungefähr -> approximate
+Beurteilung -> assessment
+beurteilen -> assess
+berechnen -> calculate
+Versuch -> try
+kategorisieren -> categorise
+kategorisieren -> categorize
+Kategorie -> category
+enden -> cease
+behaupten -> claim
+Übersetzer -> compiler
+zusammensetzen -> compile
+kompex -> complex
+Komplexität -> complexity
+einwilligen -> comply
+umfassend -> comprehensive
+umfassen -> comprise
+einräumen -> concede
+Geständnis -> concession
+vertraulich -> confidential
+bedenken -> consider
+beachtlich -> considerable
+beschränken -> constrain
+Beschränkung -> constraint
+konsumieren -> consume
+Konsum -> consumption

@@ -29,7 +29,7 @@ public class SkipWordEnglishWordState extends EnglishWordState {
 
         Iterator<String> itr = correctEnglishWords.iterator();
 
-        for(int i = 0; itr.hasNext(); i++) {
+        while(itr.hasNext()) {
             sb.append(itr.next());
 
             if(itr.hasNext()) {
