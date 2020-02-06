@@ -1,9 +1,6 @@
 package ch.reader;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -11,15 +8,12 @@ import java.util.Set;
 
 public class DictionairyReader implements Reader<String, Set<String>> {
     private static final String SPLIT_BY_ARROW = "->";
-    private static final String VOCABULARY_FILE = "englishwords/Masterlist.txt";
+    private static final String VOCABULARY_FILE = "/englishwords/Masterlist.txt";
 
     @Override
     public Map<String, Set<String>> read() {
-        ClassLoader classLoader = ClassLoader.getSystemClassLoader();
-        File file = new File(classLoader.getResource(VOCABULARY_FILE).getFile());
-
         Map<String, Set<String>> dictionairy = null;
-        try(BufferedReader br = new BufferedReader(new FileReader(file))) {
+        try(BufferedReader br = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(VOCABULARY_FILE)))) {
              dictionairy = new HashMap<String, Set<String>>();
 
             String line;
