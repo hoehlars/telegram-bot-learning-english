@@ -33,6 +33,7 @@
                 <configuration>
                     <archive>
                         <manifest>
+                            <addClasspath>true</addClasspath>
                             <mainClass>ch.Application</mainClass>
                         </manifest>
                     </archive>
