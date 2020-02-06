@@ -33,7 +33,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Application</mainClass>
+                            <mainClass>ch.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

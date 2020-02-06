@@ -1,4 +1,4 @@
-package commands.englishwords;
+package ch.commands.englishwords;
 
 public class ReceiveEnglishWordState extends EnglishWordState {
     public static final String SKIP_WORD = "skip word";

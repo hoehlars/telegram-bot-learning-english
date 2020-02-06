@@ -1,6 +1,6 @@
-package commands.englishwords;
+package ch.commands.englishwords;
 
-import commands.Command;
+import ch.commands.Command;
 import org.telegram.telegrambots.meta.api.objects.Update;
 
 public class EnglishWordCommandContext implements Command {

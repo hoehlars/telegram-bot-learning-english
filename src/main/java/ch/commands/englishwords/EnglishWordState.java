@@ -1,6 +1,6 @@
-package commands.englishwords;
+package ch.commands.englishwords;
 
-import bot.MessengerSingleton;
+import ch.bot.MessengerSingleton;
 
 public abstract class EnglishWordState {
     protected EnglishWordCommandContext context;
