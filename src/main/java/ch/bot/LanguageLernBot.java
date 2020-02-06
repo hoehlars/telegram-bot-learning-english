@@ -1,7 +1,7 @@
-package bot;
+package ch.bot;
 
-import commands.Command;
-import commands.englishwords.EnglishWordCommandContext;
+import ch.commands.Command;
+import ch.commands.englishwords.EnglishWordCommandContext;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;

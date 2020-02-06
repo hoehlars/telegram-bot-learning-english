@@ -1,4 +1,4 @@
-package commands.englishwords;
+package ch.commands.englishwords;
 
 public class StartEnglishWordState extends EnglishWordState {
 

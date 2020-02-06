@@ -1,4 +1,4 @@
-package commands;
+package ch.commands;
 
 import org.telegram.telegrambots.meta.api.objects.Update;
 

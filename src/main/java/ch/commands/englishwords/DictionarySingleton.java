@@ -1,7 +1,7 @@
-package commands.englishwords;
+package ch.commands.englishwords;
 
-import reader.DictionairyReader;
-import reader.Reader;
+import ch.reader.DictionairyReader;
+import ch.reader.Reader;
 
 import java.util.Map;
 import java.util.Random;
