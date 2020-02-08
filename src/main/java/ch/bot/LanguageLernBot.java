@@ -1,6 +1,7 @@
 package ch.bot;
 
 import ch.commands.Command;
+import ch.commands.conditionals.ConditionalsCommandContext;
 import ch.commands.englishwords.EnglishWordCommandContext;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;
@@ -41,8 +42,8 @@ public class LanguageLernBot extends org.telegram.telegrambots.bots.TelegramLong
             case Command.ENGLISH_WORD_CMD:
                 currentCommand = new EnglishWordCommandContext();
                 break;
-            case Command.EXIT_CMD:
-                currentCommand = null;
+            case Command.CONDITIONALS_CMD:
+                currentCommand = new ConditionalsCommandContext();
                 break;
         }
     }
