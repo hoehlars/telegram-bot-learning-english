@@ -1,10 +1,60 @@
-If I _, I will _ the exams. -> study, pass
-If the sun _, we _ into town. --> shines, will walk
-If he _ a temperature, he _ the doctor. -> has, will see
-If my friends _, I _ very happy. -> come, will be
-If she _ a lot of money, she _ to New York. -> earns, will fly
-If we _ to London, we _ the museums. -> travel, will visit
-If you _ sandals in the mountains, you _ on the rocks. -> wear, will slip
-If Rita _ her homework, the teacher _ her a low mark. -> forgets, will give
-If they _ to the disco, they _ to loud music. -> go, will listen
-If you _ a minute, I _ my parents. -> wait, will ask
+If I _ (to study), I will _ (to pass) the exams. -> study, pass
+If the sun _ (to shine) , we _ (to walk) into town. --> shines, will walk
+If he _ (to have) a temperature, he _ (to see) the doctor. -> has, will see
+If my friends _ (to come) , I _ (to be) very happy. -> come, will be
+If she _ (to earn) a lot of money, she _ (to fly) to New York. -> earns, will fly
+If we _ (to travel) to London, we _ (to visit) the museums. -> travel, will visit
+If you _ (to wear) sandals in the mountains, you _ (to slip) on the rocks. -> wear, will slip
+If Rita _ (to forget) her homework, the teacher _ (to give) her a low mark. -> forgets, will give
+If they _ (to go) to the disco, they _ (to listen) to loud music. -> go, will listen
+If you _ (to wait) a minute, I _ (to ask) my parents. -> wait, will ask
+If it _ (to rain) , the children _ (not/to go) for a walk. -> rains, will not go
+If she _ (not/ to read) the novel, she _ (not to pass) the literature test. -> does not read, will not pass
+If I _ (not/ to argue) with my father, he _ (to lend) me his motorbike. -> do not argue, will lend
+If we _ (to take) the bus, we _ (not/to arrive) in time. -> take, will not arrive
+If Dick _ (not/to buy) the book, his friends _ (to be) angry with him. -> does not buy, will be
+If Tom _ (not/to tidy up) his room, Victoria _ (not/to help) him with the muffins. -> does not tidy up, will not help
+If the boys _ (not/to play) football, the girls _ (not/to come) to the football pitch. -> do not play, will not come
+If you _ (to eat) too much junk food, you _ (not/to lose) weight. -> eat, will not lose
+If I _ (not/to make) breakfast tomorrow morning, my girlfriend _ (not/to loe) me anymore. -> do not make, will not love
+If they _ (not/to hurry), they _ (not/to catch) the train. -> do not hurry, will not catch
+If I _ (to come) home earlier, I _ (to prepare) dinner. -> came, would prepare
+If we _ (to live) in Rome, Francesco _ (to visit) us. -> lived, would visit
+If Tim and Tom (to be) older, they (to play) in our hockey team. -> were, would play
+If he _ (to be) my friend, I _ (to invite) him to my birthday party. -> was, would invite
+If Susan _ (to study) harder, she _ (to be) better at school. -> studied, would be
+If they _ (to have) enough money, they _ (to buy) a new car. -> had, would buy
+If you _ (to do) a paper round, you _ (to earn) a little extra money. -> did, would earn
+If Michael _ (to get) more pocket money, he _ (to ask) Doris out for dinner. -> got, would ask
+If we _ (to win) the lottery, we _ (to fly) to San Francisco. -> won, would fly
+If I _ (to meet) Brad Pitt, I _ (to ask) for his autograph. -> met, would ask
+If the weather _ (to be) nice, they _ (to play) football. -> had been, would have played
+If we _ (to go) to a good restaurant, we _ (to have) a better dinner. -> had gone, would have had
+If John _ (to learn) more words, he _ (to write) a good report. -> had learned, would have written
+If the boys _ (to take) the bus to school, they _ (to arrive) on time. -> had taken, would have arrived
+If the teacher _ (to explain) the homework, I _ (to do) it. -> had explained, would have done
+If they _ (to wait) for another 10 minutes, they _ (to see) the pop star. -> had waited, would have seen
+If the police _ (to come) earlier, they _ (to arrest) the burglar. -> had come, would have arrested
+If you _ (to buy) fresh green vegetable, your salad _ (to taste) better. -> had brought, would have tasted
+If Alex _ (to ask) me, I - (to email) the documents. -> had asked, would have emailed
+If he _ (to speak) more slowy, Peggy _ (to understand) him. -> had spoken, would have understood
+If Oliver _ (to find) money, he _ (not/to keep) it. -> found, would not keep
+If they _ (not/to wear) pullovers in the mountains, it _ (to be) too cold during the night. -> did not wear, would be
+If Tony _ (to know) her phone number, he _ (not/to give) it to Frank. -> knew, would not give
+If we _ (not/to visit) this museum, we _ (not/to write) a good report. -> did not visit, would not write
+If it _ (not/to be) so late, we _ (to play) a game of chess. -> was not, would play
+If Jeff _ (not/to like) Jessica, he _ (not/to buy) her an ice cream. -> did not like, would not buy
+If I _ (to be) you, I _ (not/to go) to Eric's party. -> were, would not go
+If you _ (to drop) this bottle, it _ (not/to break). -> dropped, would not break
+If she _ (not/to bully) her classmates, she _ (to have) more friends. -> did not bully, would have
+If he _ (not/to print) the document, I _ (not/to correct) it. -> did not print, would not correct
+If you _ (to check) the car, it _ (not/to break) down in the middle of the desert. -> had checked, would not have broken
+If it _ (not/to rain), the children _ (to play) outside. -> had not rained, would have played
+If my parents _ (not/to be) so tired, they _ (to watch) the film on TV. -> had not been, would have watched
+If she _ (to buy) a new hard disk, she _ (not/to lose) all data. -> had bought, would not have lost
+If we _ (to use) the town map, we _ (not/to get) lost. -> had used, would not have got
+If Tom _ (to eat) more salad, he _ (not/to catch) a cold. -> had eaten, would not have caught
+If the police _ (not/to stop) me, I _ (to reach) you in time. -> had not stopped, would have reached
+If his older brother _ (not/to drive) so fast, he _ (not/to crash) into the other car. -> had not driven, would not have crashed
+If Fred _ (not/to cheat) at the test, his teacher _ (not/to phone) his father. -> had not cheated, would not have phoned
+If I _ (not/to switch off) the radio, I _ (to know) about the second goal. -> had not switched off, would have known
